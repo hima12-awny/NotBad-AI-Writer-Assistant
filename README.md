@@ -57,7 +57,7 @@ Check out a [video demonstration](https://example.com/demo.mp4) of the AI Writer
 
 1.  Clone the repository:
 	```bash
-	git clone https://github.com/yourusername/ai-writers-assistant.git 
+	git clone https://github.com/yourusername/ai-writers-assistant.git
 	cd ai-writers-assistant
 	```
 2.  Install dependencies:
