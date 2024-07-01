@@ -74,6 +74,7 @@ Check out a [video demonstration](https://example.com/demo.mp4) of the AI Writer
 - `Ctrl+O`: Open a text file on your PC.
 - `Ctrl+S`: Save the text file on your PC.
 - `Ctrl+N`: Create a new text file.
+- `Ctrl+[Up or Down]`: move in the suggested words list to choose a word.
 - `Alt+E`: insert the first word from the suggested words in the text editor.
 - `Ctrl+T`: Translate the selected text.
 - `Ctrl+R`: Read aloud the selected text.
