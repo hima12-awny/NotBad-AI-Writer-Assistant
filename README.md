@@ -1,3 +1,4 @@
+
 # 📝 NotBad: AI Writer's Assistant
 
 Welcome to the AI Writer's Assistant! This Python-based application, powered by **llama3 Groq API** and **Qt**, is designed to make writing easier and more efficient. Whether you're crafting a novel, an article, or just organizing your thoughts, this tool provides a suite of features to enhance your writing experience.
@@ -54,11 +55,10 @@ Check out a [video demonstration](https://example.com/demo.mp4) of the AI Writer
      -   **Example**: Create a catchy title for an article about AI: "Revolutionizing the Future with Artificial Intelligence."
 
 ## 🛠️ Installation
-
 1.  Clone the repository:
 	```bash
-	https://github.com/hima12-awny/NotBad-AI-Writer-Assistant.git
-	cd ai-writers-assistant
+	git clone https://github.com/hima12-awny/NotBad-AI-Writer-Assistant.git
+	cd NotBad-AI-Writer-Assistant
 	```
 2.  Install dependencies:
 	```bash
@@ -69,10 +69,21 @@ Check out a [video demonstration](https://example.com/demo.mp4) of the AI Writer
 	```bash
 	python main.py
 	```
+## ✨ Helpful Shortcuts 
+- `Ctrl+O`: Open a text file on your PC.
+- `Ctrl+S`: Save the text file on your PC.
+- `Ctrl+N`: Create a new text file.
+- `Alt+E`: insert the first word from the suggested words in the text editor.
+- `Ctrl+T`: Translate the selected text.
+- `Ctrl+R`: Read aloud the selected text.
+- `Ctrl+Shift+A`: Open the AI Features Window.
+- `Ctrl+G`: Generate the result based on the input in the AI features window.
+- `Ctrl+I`: Insert the generated results from the AI features window into the text editor.
+
 ## 🔧 Technical Details 
 - **Language**: Python 
 - **API**: llama3 Groq API 
--  **GUI Framework**: Qt
+- **GUI Framework**: Qt
 - **Text Processing**: NLP techniques, Keras, LSTM
 
 ## 🤝 Contributing 
