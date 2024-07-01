@@ -4,7 +4,7 @@
 Welcome to the AI Writer's Assistant! This Python-based application, powered by **llama3 Groq API** and **Qt**, is designed to make writing easier and more efficient. Whether you're crafting a novel, an article, or just organizing your thoughts, this tool provides a suite of features to enhance your writing experience.
 
 ## 🎥 Demo 
-Check out a [video demonstration](https://example.com/demo.mp4) of the AI Writer's Assistant in action!
+Check out a [video demonstration](https://www.linkedin.com/posts/ibrahim-awny_excited-to-introduce-my-new-software-notbad-activity-7213586130955341826-VaXm?utm_source=share&utm_medium=member_desktop) of the AI Writer's Assistant in action!
 
 ## 🚀 Features
 
