@@ -57,7 +57,7 @@ Check out a [video demonstration](https://example.com/demo.mp4) of the AI Writer
 
 1.  Clone the repository:
 	```bash
-	https://github.com/hima12-awny/NotBad-AI-Writer-s-Assistant-.git
+	https://github.com/hima12-awny/NotBad-AI-Writer-Assistant.git
 	cd ai-writers-assistant
 	```
 2.  Install dependencies:
