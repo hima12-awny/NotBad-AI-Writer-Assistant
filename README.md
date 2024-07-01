@@ -34,7 +34,7 @@ Check out a [video demonstration](https://example.com/demo.mp4) of the AI Writer
     -   **Example**: Take "Global warming is an issue" and elaborate with scientific facts and data.
 7.  **Rephrasing  With Tones**:
     
-    -   Reword sentences for improved clarity and variation with a spacific **tone**.
+    -   Reword sentences for improved clarity and variation with a specific **tone**.
     -   **Example**: Transform "The cat sat on the mat" to "The feline rested on the rug."
 8.  **Grammar and Spelling Check**:
     
@@ -51,7 +51,7 @@ Check out a [video demonstration](https://example.com/demo.mp4) of the AI Writer
     
 12.  **Title Generation**:
     
-     -   Generate compelling titles for your content with a spacific **tone**.
+     -   Generate compelling titles for your content with a specific **tone**.
      -   **Example**: Create a catchy title for an article about AI: "Revolutionizing the Future with Artificial Intelligence."
 
 ## 🛠️ Installation
@@ -69,6 +69,7 @@ Check out a [video demonstration](https://example.com/demo.mp4) of the AI Writer
 	```bash
 	python main.py
 	```
+
 ## ✨ Helpful Shortcuts 
 - `Ctrl+O`: Open a text file on your PC.
 - `Ctrl+S`: Save the text file on your PC.
@@ -85,6 +86,9 @@ Check out a [video demonstration](https://example.com/demo.mp4) of the AI Writer
 - **API**: llama3 Groq API 
 - **GUI Framework**: Qt
 - **Text Processing**: NLP techniques, Keras, LSTM
+
+## NOTE:
+don't remove any folder because this consider as a component from the architecture of the project.s
 
 ## 🤝 Contributing 
 1. Fork the repository. 
