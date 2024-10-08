@@ -54,6 +54,11 @@ Check out a [video demonstration](https://www.linkedin.com/posts/ibrahim-awny_ex
      -   Generate compelling titles for your content with a specific **tone**.
      -   **Example**: Create a catchy title for an article about AI: "Revolutionizing the Future with Artificial Intelligence."
 
+## ✨ New Features in NotBad3
+###  Now, you can add new AI features by yourself using the GUI Wizard. Without even one line of Code, you just need to Name the tool and describe what it will do for you. and later you can edit to it or even delete it, using GUI Too. 
+
+
+
 ## 🛠️ Installation
 1.  Clone the repository:
 	```bash
