@@ -1,0 +1,6 @@
+The Script of Persia 
+Romanization of Persian represents Persian language with Latin script. Several schemes exist, each with own rules and goals. Transliteration mirrors spelling and orthography, while transcription mirrors pronunciation and phonology. 
+This process is essential for facilitating communication across languages, as it enables non-Persian speakers to read and write Persian words accurately. 
+The transliteration method is commonly used in language learning materials, dictionaries, and online resources, whereas transcription is often employed in linguistic research and language documentation. 
+In addition, the choice of scheme depends on the purpose of the text, with some schemes prioritizing consistency and others focusing on phonetic accuracy. 
+Notably, the International Organization for Standardization (ISO) has established standards for romanizing Persian, providing a standardized framework for transliteration and transcription. 
